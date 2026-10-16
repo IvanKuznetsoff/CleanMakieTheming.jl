@@ -1,0 +1,12 @@
+name = "CleanMakieTheming"
+uuid = "fd85f308-f064-4089-9e0f-fff97b8ee3d5"
+authors = ["johndoe "]
+version = "0.1.0"
+
+[deps]
+ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+
+[compat]
+ColorSchemes = ">= 2.0"
+Makie = "0.14 - 0.24"
