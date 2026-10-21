@@ -22,6 +22,8 @@ module CleanMakieTheming
                 titlesize         = fontsize + 1,
                 xtickalign        = 0.0,
                 ytickalign        = 0.0,
+                xminortickalign   = 0.0,
+                yminortickalign   = 0.0,
                 xticksize         = 6,
                 yticksize         = 6,
                 topspinevisible   = true,
@@ -88,6 +90,8 @@ module CleanMakieTheming
                 # Inward ticks, a bit shorter than Nature theme
                 xtickalign         = 1.0,  # 0 = out, 1 = in
                 ytickalign         = 1.0,
+                xminortickalign   = 1.0,
+                yminortickalign   = 1.0,
                 xticksize          = 4,
                 yticksize          = 4,
                 xtickwidth         = 1.0,
